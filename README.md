@@ -1,2 +1,2 @@
-# Python2
-Repositorio del curso Python 2
+# Laborratorio_1
+Primer laboratorio de Python 2

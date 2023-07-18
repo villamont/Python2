@@ -1,0 +1,19 @@
+
+
+El resultado de:  sen (Pi) es 1.2246467991473532e-16 ejecutado el: 2023-07-07 18:36:48.630684
+El resultado de:  cos (Pi) es -1.0 ejecutado el: 2023-07-07 18:36:49.761373
+El resultado de:  tan (Pi) es -1.2246467991473532e-16 ejecutado el: 2023-07-07 18:36:50.872778
+El resultado de:  sen (Pi) es 1.2246467991473532e-16 ejecutado el: 2023-07-07 18:36:57.806499
+El resultado de:  cos (Pi) es -1.0 ejecutado el: 2023-07-07 18:37:00.304552
+El resultado de:  tan (Pi) es -1.2246467991473532e-16 ejecutado el: 2023-07-07 18:37:01.604229
+El resultado de:  sen (Pi) es 1.2246467991473532e-16 ejecutado el: 2023-07-07 19:06:06.436733
+El resultado de:  tan (Pi) es -1.2246467991473532e-16 ejecutado el: 2023-07-07 19:06:09.312087
+El resultado de:  sen (Pi) es 1.2246467991473532e-16 ejecutado el: 2023-07-07 19:07:24.789980
+El resultado de:  cos (Pi) es -1.0 ejecutado el: 2023-07-07 19:07:26.558000
+El resultado de:  tan (Pi) es -1.2246467991473532e-16 ejecutado el: 2023-07-07 19:07:28.400146
+El resultado de:  sen (Pi) es 1.2246467991473532e-16 ejecutado el: 2023-07-07 19:08:03.563822
+El resultado de:  cos (Pi) es -1.0 ejecutado el: 2023-07-07 19:08:06.869828
+El resultado de:  tan (Pi) es -1.2246467991473532e-16 ejecutado el: 2023-07-07 19:08:08.122980
+El resultado de:  sen (Pi) es 1.2246467991473532e-16 ejecutado el: 2023-07-17 19:01:58.609378
+El resultado de:  cos (Pi) es -1.0 ejecutado el: 2023-07-17 19:02:06.107109
+El resultado de:  tan (Pi) es -1.2246467991473532e-16 ejecutado el: 2023-07-17 19:02:13.051233
