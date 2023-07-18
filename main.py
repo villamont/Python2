@@ -1,3 +1,5 @@
+##main program to calculate sen,cos and tan for Pi
+
 import ClaseTrig
 import datetime
 ruta='/home/jorgx/Documentos/Python/Nivel_2/Laboratorio_1/Laboratorio_1/'
